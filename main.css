@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header, form{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: blue;
+    height: 100px;
+}
+
+.container{
+    margin: 0 auto 0 auto;
+    max-width: 500px;
+    width: 500px;
+    display: flexbox;
+}
+th{
+    padding: 16px;
+}
